@@ -132,35 +132,66 @@ Sau đó bạn chọn tên máy ảo và vị trí chứa tất cả các file c
 
 
 #2. Demo hướng dẫn cài đặt ubuntu server 14.04 với VMWare WorkStation 11
-http://i.imgur.com/fE0piAS.png
-http://i.imgur.com/rztzTdn.png
-http://i.imgur.com/VebkU3h.png
-http://i.imgur.com/5kixR98.png
-http://i.imgur.com/UZOH3GK.png
-http://i.imgur.com/Ea1B2pQ.png
-http://i.imgur.com/HKP88pH.png
-http://i.imgur.com/Bt4f8Ut.png
-http://i.imgur.com/WAwUUPC.png
-http://i.imgur.com/IV6ZXOT.png
-http://i.imgur.com/pgEHKC0.png
-http://i.imgur.com/Mv6d8Jo.png
-http://i.imgur.com/9BbxzEk.png
-http://i.imgur.com/6PPrXDw.png
-http://i.imgur.com/0aTHyZ5.png
-http://i.imgur.com/5aCNRjE.png
-http://i.imgur.com/d4yV9ga.png
-http://i.imgur.com/JRPOYBs.png
-http://i.imgur.com/WMRM1Rq.png
-http://i.imgur.com/fmvlH5T.png
-http://i.imgur.com/i8Ts3ll.png
-http://i.imgur.com/9PQTQb9.png
-http://i.imgur.com/vi1s7Ln.png
-http://i.imgur.com/muEddU2.png
-http://i.imgur.com/ddj2WuX.png
-http://i.imgur.com/Mo0SGkO.png
-http://i.imgur.com/SCQ4ct8.png
-http://i.imgur.com/Vg4OB4U.png
-http://i.imgur.com/9yX8alP.png
-http://i.imgur.com/0boasBN.png
-http://i.imgur.com/4thWr1d.png
-http://i.imgur.com/crGfk4M.png
+<img src="http://i.imgur.com/fE0piAS.png">
+
+<img src="http://i.imgur.com/rztzTdn.png">
+
+<img src="http://i.imgur.com/VebkU3h.png">
+
+<img src="http://i.imgur.com/5kixR98.png">
+
+<img src="http://i.imgur.com/UZOH3GK.png">
+
+<img src="http://i.imgur.com/Ea1B2pQ.png">
+
+<img src="http://i.imgur.com/HKP88pH.png">
+
+<img src="http://i.imgur.com/Bt4f8Ut.png">
+
+<img src="http://i.imgur.com/WAwUUPC.png">
+
+<img src="http://i.imgur.com/IV6ZXOT.png">
+
+<img src="http://i.imgur.com/pgEHKC0.png">
+
+<img src="http://i.imgur.com/Mv6d8Jo.png">
+
+<img src="http://i.imgur.com/9BbxzEk.png">
+
+<img src="http://i.imgur.com/6PPrXDw.png">
+
+<img src="http://i.imgur.com/0aTHyZ5.png">
+
+<img src="http://i.imgur.com/5aCNRjE.png">
+
+<img src="http://i.imgur.com/d4yV9ga.png">
+
+<img src="http://i.imgur.com/JRPOYBs.png">
+
+<img src="http://i.imgur.com/WMRM1Rq.png">
+
+<img src="http://i.imgur.com/fmvlH5T.png">
+
+<img src="http://i.imgur.com/i8Ts3ll.png">
+
+<img src="http://i.imgur.com/9PQTQb9.png">
+
+<img src="http://i.imgur.com/vi1s7Ln.png">
+
+<img src="http://i.imgur.com/muEddU2.png">
+
+<img src="http://i.imgur.com/ddj2WuX.png">
+
+<img src="http://i.imgur.com/Mo0SGkO.png">
+
+<img src="http://i.imgur.com/SCQ4ct8.png">
+
+<img src="http://i.imgur.com/Vg4OB4U.png">
+
+<img src="http://i.imgur.com/9yX8alP.png">
+
+<img src="http://i.imgur.com/0boasBN.png">
+
+<img src="http://i.imgur.com/4thWr1d.png">
+
+<img src="http://i.imgur.com/crGfk4M.png">
