@@ -125,5 +125,28 @@ Sau đó bạn chọn tên máy ảo và vị trí chứa tất cả các file c
 <img src="http://i.imgur.com/FsDu2ZG.png">
 
 
+##Ngoài ra VMWare WorkStation còn cung cấp chế độ Snapshot và chế độ Clone
+
+- SNAPSHOT: lưu lại cấu hình từ lúc bạn chọn Take Snapshot đến trước
+- Clone: Khi bạn muốn cấu hình nhiều máy dùng Win 7, bạn sẽ phải cấu hình từng máy một, tuy nhiên, VMWare WorkStation cho phép bạn Clone ra nhiều máy, bạn có thể thắc mắc là nếu bạn copy file cấu hình ra thì sẽ được chứ sao phải tạo ra bằng Clone. Tuy nhiên với mỗi máy bạn tạo ra bằng VMWare, chương trình sẽ tạo ra cho mỗi máy một địa chỉ Mac ảo duy nhất, nếu bạn copy thì sẽ tạo ra 2 máy có cùng 1 địa chỉ Mac, nếu bạn dùng Clone bạn sẽ tạo ra được nhiều máy ảo dùng cùng 1 hệ điều hành như nhau mà lại cod dịa chỉ Mac khác nhau.
+
 
 #2. Demo hướng dẫn cài đặt ubuntu server 14.04 với VMWare WorkStation 11
+http://prntscr.com/8kkj7b
+http://prntscr.com/8kkjgv
+http://prntscr.com/8kkjoy
+http://prntscr.com/8kkjy7
+http://prntscr.com/8kkk56
+http://prntscr.com/8kkkeg
+http://prntscr.com/8kkkin
+http://prntscr.com/8kkkng
+http://prntscr.com/8kkkz7
+http://prntscr.com/8kkl56
+http://prntscr.com/8kkl9q
+http://prntscr.com/8kkldr
+http://prntscr.com/8kklsg
+http://prntscr.com/8kklxs
+http://prntscr.com/8kkm7r
+http://prntscr.com/8kkmg8
+http://prntscr.com/8kkmn0
+http://prntscr.com/8kkmtq
