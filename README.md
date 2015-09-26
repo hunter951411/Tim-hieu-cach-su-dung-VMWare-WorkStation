@@ -161,3 +161,6 @@ http://prntscr.com/8kkod3
 http://prntscr.com/8kkoiv
 http://prntscr.com/8kkoo1
 http://prntscr.com/8kkpgf
+http://prntscr.com/8kkpvk
+http://prntscr.com/8kkqo8
+http://prntscr.com/8kkrcz
